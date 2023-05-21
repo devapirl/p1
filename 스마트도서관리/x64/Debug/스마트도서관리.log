@@ -1,0 +1,9 @@
+﻿  book_delete.c
+  book_search.c
+  book_util.c
+  lib.c
+D:\27일 최종통합 v2.0.1디자인_오후3시경\스마트도서관리\lib.c(83,7): warning C4101: 'ok' :참조되지 않은 지역 변수입니다.
+  main.c
+  where_book.c
+  코드를 생성하고 있습니다...
+  스마트도서관리.vcxproj -> D:\27일 최종통합 v2.0.1디자인_오후3시경\x64\Debug\스마트도서관리.exe
